@@ -3,7 +3,7 @@ using namespace std;
 int main(void)
 {
 	int a, b, c;
-	cout<<"依次输入a、b，得到a、b之和c"<<endl;
+	cout<<"渚濇杈撳叆a銆乥锛屽緱鍒癮銆乥涔嬪拰c"<<endl;
 	cout<<"a=";
 	cin>> a;
 	cout<<"b=";
