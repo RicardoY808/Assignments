@@ -13,8 +13,8 @@ int main()
   cin>>c;
   cout <<"The right answer is:"<<a<<"+"<<b<<"="<< a+b <<endl;
   cout <<"Your answer is     :"<<a<<"+"<<b<<"="<< c <<endl;
-  if(c==a+b) cout<<"正确"<<endl;
-  else cout<<"错误"<<endl;
+  if(c==a+b) cout<<"脮媒脠路"<<endl;
+  else cout<<"麓铆脦贸"<<endl;
  	return 0;
 }
 
